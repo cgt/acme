@@ -49,7 +49,7 @@ If so, and the -accept argument is not provided, the command prompts the user
 with a TOS URL provided by the CA.
 
 See also: acme help account.
-		`,
+`,
 	}
 
 	regDisco  = defaultDiscoFlag

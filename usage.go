@@ -47,7 +47,7 @@ Default location of the account config dir is
 
 Use -c argument with any acme command to override the default location
 of the config dir. Alternatively, set ACME_CONFIG environment variable.
-		`,
+`,
 	}
 
 	helpDisco = &command{
@@ -63,7 +63,7 @@ A directory alias can also be used. Currently defined aliases are:
 
 For more information about the spec see
 https://tools.ietf.org/html/draft-ietf-acme-acme.
-		`,
+`,
 	}
 )
 

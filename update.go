@@ -34,7 +34,7 @@ the proposed CA's Terms and Conditions (the agreement).
 
 Default location of the config dir is
 {{.ConfigDir}}.
-		`,
+`,
 	}
 
 	updateAccept bool

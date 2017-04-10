@@ -32,7 +32,7 @@ found in the config file and displays the formatted results.
 It is a simple way to verify the validity of an account key.
 
 Default location of the config dir is {{.ConfigDir}}.
-		`,
+`,
 	}
 )
 

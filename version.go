@@ -26,7 +26,7 @@ var (
 		Long: `
 The version command is available only for releases.
 The binary built with "go get" will not have the version subcommand.
-		`,
+`,
 	}
 )
 

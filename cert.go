@@ -54,7 +54,7 @@ in which case instructions are displayed on the standard output.
 
 Default location of the config dir is
 {{.ConfigDir}}.
-		`,
+`,
 	}
 
 	certDisco   = defaultDiscoFlag
