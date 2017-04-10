@@ -38,7 +38,7 @@ If the config dir does not exist, it will be created.
 
 Contact arguments can be anything: email, phone number, etc.
 
-The -gen flag will generate an ECDSA P-256 keypair to use as the account key.
+The -gen flag will generate an RSA 2048 bit keypair to use as the account key.
 
 If -gen flag is not specified, and a file named account.key containing
 a PEM-encoded ECDSA or RSA private key does not exist, the command will exit
